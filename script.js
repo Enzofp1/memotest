@@ -15,14 +15,14 @@ let nombre = prompt("Ingrese su nombre ");
 
         function cargarIconos() {
             iconos = [
-                '<img class="img" src="/img/hilux.jpg" alt="">',
-                '<img class="img" src="/img/camaro.jpg" alt="">',
-                '<img class="img" src="/img/mustang.jpg" alt="">',
-                '<img class="img" src="/img/chevrolete cruze.jpg" alt="">',
-                '<img class="img" src="/img/Fiat-Cronos.jpg" alt="">',
-                '<img class="img" src="/img/golf.jpg" alt="">',
-                '<img class="img" src="/img/R.jpg" alt="">',
-                '<img class="img" src="/img/peugeot.jpg" alt="">',
+                '<img class="img" src="hilux.jpg" alt="">',
+                '<img class="img" src="camaro.jpg" alt="">',
+                '<img class="img" src="mustang.jpg" alt="">',
+                '<img class="img" src="chevrolete cruze.jpg" alt="">',
+                '<img class="img" src="Fiat-Cronos.jpg" alt="">',
+                '<img class="img" src="golf.jpg" alt="">',
+                '<img class="img" src="R.jpg" alt="">',
+                '<img class="img" src="peugeot.jpg" alt="">',
                 
                 
                 
